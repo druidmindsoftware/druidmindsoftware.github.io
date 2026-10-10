@@ -1,0 +1,1 @@
+# AdMob → Uygulamalar → app-ads.txt kur bölümündeki satırı buraya yaz (pub-XXXXXXXXXXXXXXXX)
